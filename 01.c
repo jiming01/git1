@@ -6,5 +6,6 @@ int main()
     int b = 2;
     printf("llll");
     printf("%d",a);
+    printf("%d",b);
     return 0;
 }
